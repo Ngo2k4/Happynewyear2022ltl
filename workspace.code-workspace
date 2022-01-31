@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\HP_test"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\WebMuisc"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HP_NYEAR"
+	}
+}
